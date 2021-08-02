@@ -1,0 +1,25 @@
+{
+  "name": "cat-card-app",
+  "version": "1.0.0",
+  "description": "It is a Cat Card Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cat",
+    "card",
+    "application",
+    "node",
+    "js",
+    "image",
+    "merge"
+  ],
+  "author": "Naveen Kumar <naveen2593kumar@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/blend": "^2.0.1",
+    "minimist": "^1.2.5",
+    "node-fetch": "^2.6.1"
+  }
+}
